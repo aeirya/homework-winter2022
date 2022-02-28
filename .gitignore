@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# VSCode Mac
+.VSCodeCounter
+.DS_Store
+*/.DS_Store
+
+# Tex
+*.aux
+*.log
+*.synctex.gz
+*font
+.texpadtmp
+clrscode.pdf
+clrscode3e.sty
+sharif.png
